@@ -1,4 +1,4 @@
-# Provision an EKS Cluster
+# Provisioning an EKS Cluster
 
 Start the project: `terraform init`
 
